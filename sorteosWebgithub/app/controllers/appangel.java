@@ -10,5 +10,5 @@ package controllers;
  * @author angel
  */
 public class appangel {
-
+return ok(index.render("Your new application is ready."));
         }
